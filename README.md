@@ -24,7 +24,6 @@ This analysis answers the following questions:
 * Brand revenue ranking using aggregation and window functions
 * Average product rating comparison by brand
 * Monthly revenue trend analysis
-* Month-over-month revenue and customer count change using `LAG()`
 * Customer segment revenue share and revenue per customer
 
 ## Key Insights
@@ -33,7 +32,7 @@ This analysis answers the following questions:
 * Male customers represent a larger share of customers across age groups.
 * Pepsi, Zara, and Nike are among the top revenue-generating brands.
 * Some lower-revenue brands have higher average ratings than the highest-revenue brands.
-* Revenue fluctuates across months, with noticeable dips in February, May, August, September, November, and December.
+* Revenue fluctuates across months, with noticeable dips in May, August, September, November, and December.
 * Revenue declines align with decreases in customer count, suggesting that lower customer traffic may be a major driver of weaker sales performance in those months.
 * New customers contribute the largest share of total revenue at about $12M, or 40% of all sales.
 * Revenue per customer remains consistent across all segments, so differences in total revenue are mainly driven by customer count rather than higher spending per person.
@@ -72,14 +71,17 @@ Source: [Retail Analysis on Large Dataset](https://www.kaggle.com/datasets/sahil
 * Window functions including `RANK()` and `LAG()`
 * Month-over-month trend analysis
 * Business insight generation
-* Data storytelling with SQL outputs and Tableau dashboards
+* Data storytelling with SQL outputs and visualizations via Tableau
 
 ## Dashboard (Tableau)
-Built two linked, interactive Tableau dashboards (Sales Performance & Customer Insights) 
-to make the SQL-driven insights explorable for non-technical stakeholders:
+Built two linked, interactive Tableau dashboards (Sales Performance & Customer Insights) to make the SQL-driven insights explorable for non-technical stakeholders:
 - Cross-dashboard filter actions (e.g., filtering by brand updates customer demographics view)
 - Parameter-driven "Top N Brands" control
-- Calculated fields for age segmentation and dynamic KPI titles
-- Dual-axis and heat-map visualizations for revenue vs. rating and revenue by age/income
+- Calculated fields for age segmentation, dynamic KPI titles, and highest/lowest month highlighting
+- Stacked bar charts breaking down revenue by age, gender, and income; brand-level revenue and rating comparisons
 
 🔗 [View live dashboard on Tableau Public](https://public.tableau.com/views/CustomerSalesPerformanceAnalysis/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+![(Sales Dashboard)](https://github.com/namvien94/retail_analysis_sql_databricks/blob/96a1640745a1c562aed75bcd44e843aa10afada2/Sales%20Dashboard.png)
+
+![Customer Dashboard](https://github.com/namvien94/retail_analysis_sql_databricks/blob/96a1640745a1c562aed75bcd44e843aa10afada2/Customer%20Dashboard.png)
