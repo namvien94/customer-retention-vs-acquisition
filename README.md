@@ -35,7 +35,7 @@ This analysis answers the following questions:
 * Some lower-revenue brands have higher average ratings than the highest-revenue brands.
 * Revenue fluctuates across months, with noticeable dips in February, May, August, September, November, and December.
 * Revenue declines align with decreases in customer count, suggesting that lower customer traffic may be a major driver of weaker sales performance in those months.
-* New customers contribute the largest share of total revenue at about $14.90M, or 41.28% of all sales.
+* New customers contribute the largest share of total revenue at about $12M, or 40% of all sales.
 * Revenue per customer remains consistent across all segments, so differences in total revenue are mainly driven by customer count rather than higher spending per person.
 
 ## Recommendations
@@ -50,6 +50,7 @@ This analysis answers the following questions:
 * SQL
 * Databricks Notebook
 * Data visualization in Databricks
+* Tableau
 
 ## Dataset
 
@@ -58,7 +59,7 @@ The analysis uses two retail tables:
 * `retail_customers`: customer demographic information, including age, gender, income level, and customer segment
 * `retail_transactions`: transaction-level data, including revenue, product brand, ratings, transaction date, and customer ID
 
-The two tables are joined using `CUSTOMER_ID`.
+The two tables are inner-joined using `CUSTOMER_ID`.
 
 Source: [Retail Analysis on Large Dataset](https://www.kaggle.com/datasets/sahilprajapati143/retail-analysis-large-dataset/data)
 
@@ -71,4 +72,14 @@ Source: [Retail Analysis on Large Dataset](https://www.kaggle.com/datasets/sahil
 * Window functions including `RANK()` and `LAG()`
 * Month-over-month trend analysis
 * Business insight generation
-* Data storytelling with SQL outputs and visualizations
+* Data storytelling with SQL outputs and Tableau dashboards
+
+## Dashboard (Tableau)
+Built two linked, interactive Tableau dashboards (Sales Performance & Customer Insights) 
+to make the SQL-driven insights explorable for non-technical stakeholders:
+- Cross-dashboard filter actions (e.g., filtering by brand updates customer demographics view)
+- Parameter-driven "Top N Brands" control
+- Calculated fields for age segmentation and dynamic KPI titles
+- Dual-axis and heat-map visualizations for revenue vs. rating and revenue by age/income
+
+🔗 [View live dashboard on Tableau Public](https://public.tableau.com/views/CustomerSalesPerformanceAnalysis/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
