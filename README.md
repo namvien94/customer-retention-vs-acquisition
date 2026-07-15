@@ -1,4 +1,4 @@
-# Retail Customer and Revenue Analysis
+# Customer Retention vs. Acquisition Analysis
 
 ## The Decision
 
@@ -6,7 +6,7 @@ Should the business prioritize acquiring new customers, mainly ages 18-34, or in
 
 This project uses SQL and Tableau to answer that question, using retail transaction and customer data to identify where growth is really coming from, and where the business is exposed to risk if that growth slows down.
 
-![Sales by Customer Segments donut chart](https://github.com/namvien94/retail_analysis_sql_databricks/blob/6d98aae106f233a0c6ce9a1d577c97fd6b89accb/Sales%20by%20Customer%20Segments.png)
+![Sales by Customer Segments donut chart]()
 
 ## Key Metrics
 
