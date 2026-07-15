@@ -52,7 +52,7 @@ Pepsi alone generates $8.5M, roughly 28% of total revenue. The next closest bran
 
 ![Top Brands](https://github.com/namvien94/retail_analysis_sql_databricks/blob/6d98aae106f233a0c6ce9a1d577c97fd6b89accb/Top%20Brands.png)
 
-## Evidence
+## Explore the Dashboard
 
 Two linked, interactive Tableau dashboards support the recommendations above. Filtering by brand on one dashboard updates the customer demographics view on the other, so a stakeholder can trace any recommendation back to the underlying data.
 
