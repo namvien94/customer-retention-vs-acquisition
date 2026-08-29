@@ -20,7 +20,7 @@ Revenue is also concentrated among **customers ages 18–34**, while the highest
 
 ## Explore the Dashboard
 
-Two linked, interactive Tableau dashboards support the recommendations above. Filtering by brand on one dashboard updates the customer demographics view on the other, so a stakeholder can trace any recommendation back to the underlying data.
+Two linked Tableau dashboards provide interactive sales and customer demographic analysis with cross-dashboard filtering by brand.
 
 🔗 [View live dashboard on Tableau Public](https://public.tableau.com/views/CustomerSalesPerformanceAnalysis/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
