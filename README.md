@@ -32,18 +32,17 @@ Two linked Tableau dashboards provide interactive sales and customer demographic
 
 ### 1. Test retention and cross-sell strategies for existing customers
 
-New customers generate approximately $12M, or 40% of total revenue, yet average sales per customer remain near $1,370 across New, Regular, and Premium segments. This suggests that higher revenue from new customers is driven primarily by customer volume rather than greater customer value.
+New customers generate **$12M, or 40% of revenue**, while average sales per customer remain near **$1,370 across segments**, indicating that higher revenue is driven primarily by customer volume.  
 
-Test loyalty, bundling, or cross-sell offers designed to increase spending among existing customers. Measure changes in average sales per customer and incremental revenue to determine whether retention investment can generate growth without a proportional increase in acquisition activity.
+Test loyalty, bundling, or cross-sell offers for existing customers and measure changes in **average sales per customer and incremental revenue**.  
 
 ![Average Sales Per Customer](https://github.com/namvien94/customer-retention-vs-acquisition/blob/main/images/average-sales-per-customer.png?raw=true)
 
 ### 2. Reduce revenue concentration among customers ages 18–34
 
-Customers ages 18–34 account for the large majority of revenue, while contribution declines sharply among older customer groups.  
-This concentration creates exposure if demand or purchasing behavior changes within the business's dominant demographic.
+Customers ages **18–34 account for the large majority of revenue**, creating exposure to changes in demand within the business's dominant demographic.  
 
-Test targeted campaigns for underrepresented customer groups, particularly ages 35–54, and measure customer acquisition, conversion, and incremental revenue before expanding the strategy.
+Test targeted campaigns for underrepresented groups, particularly **ages 35–54**, and measure acquisition, conversion, and incremental revenue before scaling.
 
 ![Sales by Age, Gender, and Income 35-54](https://github.com/namvien94/customer-retention-vs-acquisition/blob/main/images/sales-by-age-gender-and-income-35-54.png?raw=true)
 
