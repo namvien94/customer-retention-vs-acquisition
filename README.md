@@ -48,19 +48,17 @@ Test targeted campaigns for underrepresented groups, particularly **ages 35–54
 
 ### 3. Target acquisition efforts during seasonal revenue dips
 
-Revenue declines in several months align more closely with lower customer counts than with lower average spending per customer.  
-This suggests that the declines are primarily associated with customer traffic rather than reduced customer value.
+Revenue declines in weaker months align with **lower customer counts rather than lower spending per customer**, indicating that customer traffic is the primary driver.  
 
-Test targeted acquisition campaigns during historically weaker months and measure incremental customers and revenue before considering broader pricing or product changes.
+Test targeted acquisition campaigns during these periods and measure incremental customers and revenue before considering pricing or product changes.
 
 ![Sales vs. Customers](https://github.com/namvien94/customer-retention-vs-acquisition/blob/main/images/sales-customers.png?raw=true)
 
 ### 4. Reduce brand concentration risk
 
-The highest-revenue brand generates approximately $8.5M, or 28% of total revenue, substantially more than any other brand.  
-This creates meaningful revenue concentration around a single source.
+The highest-revenue brand generates approximately **$8.5M, or 28% of total revenue**, creating significant dependence on a single revenue source.  
 
-Evaluate growth opportunities among the next-highest-revenue brands through targeted merchandising or promotional tests, and monitor whether revenue becomes less concentrated over time.
+Test growth opportunities among **next-tier brands** through targeted merchandising or promotions and monitor changes in revenue concentration.
 
 ![Top Brands](https://github.com/namvien94/customer-retention-vs-acquisition/blob/main/images/top-brands.png?raw=true)
 
