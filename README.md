@@ -4,7 +4,8 @@
 
 Should the business continue relying on new customer acquisition for growth, or invest more heavily in increasing revenue from existing customers?
 
-This analysis examines 22K+ customers and approximately $30M in retail revenue using SQL and Tableau. The findings show that new customers generate the largest share of revenue, but average revenue per customer remains nearly flat across customer segments, suggesting that growth is being driven by customer volume rather than increasing customer value.
+This analysis examines 22K+ customers and approximately $30M in retail revenue using SQL and Tableau.  
+The findings show that new customers generate the largest share of revenue, but average revenue per customer remains nearly flat across customer segments, suggesting that growth is being driven by customer volume rather than increasing customer value.
 
 The analysis also identifies two important revenue risks: **heavy concentration among customers ages 18–34** and **dependence on a single top-performing brand**.
 
@@ -16,8 +17,7 @@ The analysis also identifies two important revenue risks: **heavy concentration 
 |---|---:|---:|---:|
 | ~$30M | 22K+ | ~$12M / 40% | ~$1,370 |
 
-New customers generate the largest share of revenue, but average sales per customer remain approximately $1,370 across customer segments.  
-This suggests that revenue growth depends primarily on acquiring more customers rather than increasing the value generated from existing relationships.
+New customers generate the largest share of revenue, but average sales per customer remain approximately $1,370 across customer segments. This suggests that revenue growth depends primarily on acquiring more customers rather than increasing the value generated from existing relationships.
 
 Revenue is also highly concentrated among customers ages 18–34, while one brand alone contributes approximately $8.5M, or 28%, of total revenue.
 
