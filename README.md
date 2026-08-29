@@ -3,7 +3,8 @@
 ## The Decision
 
 Should the business continue relying on new customer acquisition for growth, or invest more heavily in increasing revenue from existing customers?
-The analysis points to an opportunity to strengthen retention and increase revenue from existing customers rather than relying primarily on continued acquisition for growth.
+
+The analysis points to an opportunity to **strengthen retention and increase revenue from existing customers** rather than relying primarily on continued acquisition for growth.
 
 ## What the Business Needs to Know
 
@@ -11,8 +12,9 @@ The analysis points to an opportunity to strengthen retention and increase reven
 |---|---:|---:|---:|
 | ~$30M | 22K+ | ~$12M / 40% | ~$1,370 |
 
-New customers generate approximately $12M, or 40%, of total revenue, while average sales per customer remain near $1,370 across customer segments. This indicates that revenue growth is being driven primarily by customer volume rather than higher customer value.
-Revenue is also concentrated among customers ages 18–34, while the highest-revenue brand contributes approximately $8.5M, or 28%, of total revenue, creating additional concentration risk.
+New customers generate approximately **$12M, or 40%, of total revenue**, while average sales per customer remain near **$1,370 across customer segments**. This indicates that revenue growth is being driven primarily by **customer volume rather than higher customer value**.
+
+Revenue is also concentrated among **customers ages 18–34**, while the highest-revenue brand contributes approximately **$8.5M, or 28%, of total revenue**, creating additional concentration risk.
 
 ![Sales by Age, Gender, and Income](https://github.com/namvien94/customer-retention-vs-acquisition/blob/main/images/sales-by-age-gender-and-income.png?raw=true)
 
