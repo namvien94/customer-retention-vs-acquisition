@@ -9,8 +9,6 @@ The findings show that new customers generate the largest share of revenue, but 
 
 The analysis also identifies two important revenue risks: **heavy concentration among customers ages 18–34** and **dependence on a single top-performing brand**.
 
-![Sales by Customer Segments](https://github.com/namvien94/customer-retention-vs-acquisition/blob/main/images/sales-by-customer-segments.png?raw=true)
-
 ## What the Business Needs to Know
 
 | Total Revenue | Customers | New Customer Revenue | Avg. Sales per Customer |
