@@ -38,9 +38,9 @@ Test loyalty, bundling, or cross-sell offers for existing customers and measure 
 
 ![Average Sales Per Customer](https://github.com/namvien94/customer-retention-vs-acquisition/blob/main/images/average-sales-per-customer.png?raw=true)
 
-### 2. Reduce revenue concentration among customers ages 18–34
+### 2. Reduce revenue concentration risk
 
-This demographic accounts for the large majority of revenue, creating exposure to changes in demand within the business's dominant demographic.  
+Customers ages 18–34 account for the large majority of revenue, creating exposure to changes in demand within the business's dominant demographic.
 
 Test targeted campaigns for underrepresented groups, particularly **ages 35–54**, and measure acquisition, conversion, and incremental revenue before scaling.
 
